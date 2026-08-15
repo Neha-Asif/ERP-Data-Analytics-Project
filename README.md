@@ -99,5 +99,5 @@ The analysis was used to identify important patterns and generate insights that 
 
 The project demonstrates the complete process of converting raw ERP data into a structured analytical solution, from data preparation and database development to SQL analysis and interactive Power BI reporting.
 
-
+![ERP Power BI Dashboard](Dashboard.png)
 
