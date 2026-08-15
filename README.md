@@ -74,6 +74,8 @@ Power BI Dashboard
 
 An interactive Power BI dashboard was developed to visualize important KPIs, trends, and business performance indicators.
 
+![ERP Power BI Dashboard](07_Dashboard_Screenshots.png)
+
 Business Insights
 
 The analysis was used to identify important patterns and generate insights that can support data-driven business decisions.
@@ -98,6 +100,4 @@ The analysis was used to identify important patterns and generate insights that 
 📌 Project Outcome
 
 The project demonstrates the complete process of converting raw ERP data into a structured analytical solution, from data preparation and database development to SQL analysis and interactive Power BI reporting.
-
-![ERP Power BI Dashboard](Dashboard.png)
 
